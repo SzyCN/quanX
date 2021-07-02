@@ -16,5 +16,15 @@
 // @/g                正则匹配时匹配多个key键值
 // ==/KeyExplain==
 
-var body = $response.body.replace(/"endDate": "2021-09-23"/g '"endDate": "2022-09-23"')
-$done({ body });
+let obj = JSON.parse($response.body);
+obj={
+   "code": "1",
+  "msg": "",
+  "data": {
+    "status": 1,
+    "remainDays": 365,
+    ”remainMonths": 12,
+    "endDate": "2022-07-02"
+｝
+｝
+$done({body: JSON.stringify(obj)});
