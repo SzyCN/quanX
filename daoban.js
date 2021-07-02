@@ -16,5 +16,5 @@
 // @/g                正则匹配时匹配多个key键值
 // ==/KeyExplain==
 
-var body = $response.body.replace(/"remainMonths": 2,:'"remainMonths": 15').replace(/"remainDays": 84,'"remainDays": 450');
+var body = $response.body.replace(/"remainMonths": 2,:'"remainMonths": 15').replace(/"remainDays": 84,'"remainDays": 450')
 $done({ body });
