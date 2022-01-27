@@ -1,5 +1,5 @@
 /*
-Author：@ddgksf2013
+Author：@ddgksf2013   hostname = musicpay.kuwo.cn, vip1.kuwo.cn
 
 通知频道：https://t.me/ddgksf2021
 
