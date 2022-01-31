@@ -1,4 +1,7 @@
 /*
+hostname = biz.caiyunapp.com
+^https?:\/\/biz\.caiyunapp\.com\/v\d\/user url script-response-body 
+
 脚本功能：解锁 彩云天气/彩云天气Pro SVIP
 脚本作者：R·E
 下载地址：(彩云天气)https://apps.apple.com/cn/app/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94-%E4%B8%BA%E6%82%A8%E9%A2%84%E6%8A%A5%E5%87%A0%E7%82%B9%E5%87%A0%E5%88%86%E4%B8%8B%E9%9B%A8/id847764912
