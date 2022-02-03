@@ -1,5 +1,6 @@
 /*
 脚本功能：解锁SaveFile LifeTime会员
+hostname = raw.githubusercontent.com, buy.itunes.apple.com
 脚本作者：R·E
 下载地址：https://apps.apple.com/cn/app/savefile-offline-file-manager/id1531055735
 支持版本：商店最新 2.2.4
