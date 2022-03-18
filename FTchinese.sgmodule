@@ -1,0 +1,8 @@
+#!name=Unlock FT svip
+#!desc=FT svip
+
+[MITM]
+hostname = user.ftmailbox.cn
+
+[Script]
+FT = type=http-response,pattern=^https?:\/\/user\.ftmailbox\.cn\/ios-receipt-validation\.php.*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/ftchinese.js
