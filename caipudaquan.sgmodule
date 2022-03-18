@@ -5,5 +5,5 @@
 hostname = apiios_dq.xiangha.com, appweb_dq.xiangha.com, 101.200.225.157
 
 [Script]
-caipu = type=http-response,pattern=^https?:\/\/apiios_dq\.xiangha\.com\/v\d\/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/SzyCN/quanX/main/cpdq.js
-caipu = type=http-response,pattern=^https?:\/\/appweb_dq\.xiangha\.com\/center\/pay\/home,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/SzyCN/quanX/main/cpdq.js
+caipu = type=http-response,pattern=^https?:\/\/apiios_dq\.xiangha\.com\/v\d\/,requires-body=1,script-path=https://raw.githubusercontent.com/SzyCN/quanX/main/cpdq.js
+caipu = type=http-response,pattern=^https?:\/\/appweb_dq\.xiangha\.com\/center\/pay\/home,requires-body=1,script-path=https://raw.githubusercontent.com/SzyCN/quanX/main/cpdq.js
