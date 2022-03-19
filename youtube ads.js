@@ -1,7 +1,7 @@
 #!name=Unlock Youtube Premium
 #!desc=YouTube
 
-
+[URL Rewrite]
 https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost, REJECT
 https?:\/\/.+.youtube.com\/api\/stats\/ads, REJECT
 https?:\/\/.+.youtube.com\/get_midroll_, REJECT
