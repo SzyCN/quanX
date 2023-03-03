@@ -1,5 +1,5 @@
-#!name=fenbeiyi
-#!desc=
+#!name=分贝仪
+#!desc=分贝仪会员解锁
 #!homepage=
 #!author=SzyCN
 #!icon=
